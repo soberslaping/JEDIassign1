@@ -1,0 +1,2 @@
+This is the 45 min assignment given to us on 24 Jan.
+Git/ GitHub tutorial.
